@@ -1,15 +1,23 @@
-# IvanCM
+ # ivan-crb
+ Iván C. M.
+
+<hr>
+
+### <ins>About me
+I'm a spanish computer engineering student with a little bit of programming experience, an interest in development and always keen of learning new languages and technologies.
+  
+    
+### <ins>Skills
 
 
 
+### <ins>Learning
 
-
-- 👋 Hi, I’m @IvanCM1
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 ### <ins>Contact
   Discord
   Email
+
+ 
