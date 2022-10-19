@@ -17,7 +17,7 @@ I'm a spanish computer engineering student with a little bit of programming expe
  
 ### <ins>Learning
  
- <img height="50" src="https://img.shields.io/badge/java-F80000?logo=oracle&style=for-the-badge&logoColor=F0F0F0"> 
+ <img height="50" src="https://img.shields.io/badge/java-FFFFFF?logo=openjdk&style=for-the-badge&logoColor=000000"> 
 
  <img height="50" src="https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=F0F0F0"> 
  
