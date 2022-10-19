@@ -21,7 +21,7 @@ Java
 Python
 
 ### <ins>Contact
- https://discord.com/users/290597608081195011
+
 <a href="https://discord.com/users/290597608081195011" target="_blank">
   <img style="width: 25px; height: 25px" src="https://github.com/ivan-crb/ivan-crb/blob/main/images/discord.png"> Discord - IvanCM#6545
 </a>
