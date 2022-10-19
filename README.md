@@ -26,6 +26,7 @@ Python
   <img style="width: 25px; height: 25px" src="https://github.com/ivan-crb/ivan-crb/blob/main/images/discord.png"> Discord - IvanCM#6545
 </a>
 
+ 
  <a href="mailto:caraballomesaivan@gmail.com" target="_blank">
   <img style="width: 25px; height: 25px" src="https://github.com/ivan-crb/ivan-crb/blob/main/images/gmail.png"> caraballomesaivan@gmail.com
 </a>
