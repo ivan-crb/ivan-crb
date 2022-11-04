@@ -6,12 +6,10 @@ ivan-crb
 I'm a spanish computer engineering student with a little bit of programming experience, an interest in development and always keen of learning new languages and technologies.
     
 ### <ins>Skills
+<!--
 
-<img height="50" src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=F0F0F0"> 
- 
- <img height="50" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge&logoColor=F0F0F0"> 
- 
- <img height="50" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000000"> 
+-->
+<img height="50" src="https://img.shields.io/badge/html-E34F26?logo=html5&style=for-the-badge&logoColor=F0F0F0"> <img height="50" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge&logoColor=F0F0F0"> <img height="50" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000000"> 
  
  <img height="50" src="https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=000000"> 
  
@@ -30,9 +28,10 @@ I'm a spanish computer engineering student with a little bit of programming expe
  
   [![](https://img.shields.io/badge/IvanCM-F58025?logo=stackoverflow&style=for-the-badge&logoColor=F0F0F0)](https://stackoverflow.com/users/20286345/ivancm)
  
- 
+ <!--
  ### <ins>Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-crb&show_icons=true&theme=radical)
+-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-crb&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
